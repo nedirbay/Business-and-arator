@@ -1,0 +1,6 @@
+{
+  "name": "Söz we Biznes AI",
+  "description": "Sözleýiş medeniýeti, adamlara täsir ýetirmek we biznes strategiýalaryny öwredýän interaktiw emeli aň platformasy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
